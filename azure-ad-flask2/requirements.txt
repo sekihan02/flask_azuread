@@ -1,0 +1,7 @@
+Flask==2.0.1
+msal
+flask_oidc_ex==0.5.7
+itsdangerous==2.0.1
+jinja2
+flask
+Flask-Dance
